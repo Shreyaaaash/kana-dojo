@@ -23,7 +23,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -50,7 +50,7 @@
     "dont": "ご飯に箸を立てる",
     "note": "立て箸は弔事連想のため避ける。",
     "id": 6,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -59,7 +59,7 @@
     "dont": "参道の中央を歩く",
     "note": "中央は神様の通り道とされる。",
     "id": 7,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -392,7 +392,7 @@
     "dont": "無言で食べ始める",
     "note": "感謝を示す慣習。",
     "id": 44,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -653,7 +653,7 @@
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -707,7 +707,7 @@
     "dont": "両側を塞ぐ",
     "note": "地域差に注意。",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -716,7 +716,7 @@
     "dont": "匂いの強いものを持参する",
     "note": "分けやすさが好まれる。",
     "id": 80,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1049,7 +1049,7 @@
     "dont": "ゴミを放置する",
     "note": "ゴミ箱が少ない地域がある。",
     "id": 117,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

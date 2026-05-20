@@ -420,7 +420,7 @@
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 48,
@@ -582,7 +582,7 @@
     "english": "If you eat poison, eat the plate too",
     "meaning": "If you must do something risky, go all the way",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 66,
@@ -690,7 +690,7 @@
     "english": "Peek at the sky through a needle's eye",
     "meaning": "A narrow viewpoint leads to poor judgment",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 78,
@@ -735,7 +735,7 @@
     "english": "Well-side conference",
     "meaning": "Neighborhood gossip",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 83,
@@ -888,7 +888,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Standing out invites criticism",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 100,
@@ -960,7 +960,7 @@
     "english": "The moon and a turtle",
     "meaning": "Vastly different; not comparable",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 108,
@@ -1241,7 +1241,7 @@
     "english": "Continuation is power",
     "meaning": "Consistency builds strength",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 139,
@@ -1504,7 +1504,7 @@
     "english": "Chase two rabbits, catch none",
     "meaning": "Focus on one thing",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 168,
