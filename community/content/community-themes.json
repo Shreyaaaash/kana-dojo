@@ -487,9 +487,9 @@
     "name": "Karasu Black"
   },
   {
-    "id": "sakura-latte",
-    "backgroundColor": "oklch(95.0% 0.020 15.0 / 1)",
-    "mainColor": "oklch(70.0% 0.155 350.0 / 1)",
-    "secondaryColor": "oklch(82.0% 0.090 95.0 / 1)"
+    "id": "hanami-pink",
+    "backgroundColor": "oklch(92.0% 0.028 345.0 / 1)",
+    "mainColor": "oklch(70.0% 0.165 350.0 / 1)",
+    "secondaryColor": "oklch(78.0% 0.110 25.0 / 1)"
   }
 ]
