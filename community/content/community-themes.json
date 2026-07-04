@@ -532,5 +532,11 @@
     "backgroundColor": "oklch(94.0% 0.010 95.0 / 1)",
     "mainColor": "oklch(55.0% 0.095 55.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.085 30.0 / 1)"
-  }
+  },
+  {
+  "id": "sea-glass",
+  "backgroundColor": "oklch(96.0% 0.015 210.0 / 1)",
+  "mainColor": "oklch(60.0% 0.135 200.0 / 1)",
+  "secondaryColor": "oklch(78.0% 0.065 100.0 / 1)"
+}
   ]
